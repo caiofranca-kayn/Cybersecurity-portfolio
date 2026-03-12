@@ -32,3 +32,18 @@ Blue team and SOC investigation scenarios.
 ## Purpose
 
 This portfolio demonstrates practical cybersecurity skills developed through structured labs and continuous learning.
+
+## Skills Demonstrated
+
+- Web Application Security
+- Reconnaissance Techniques
+- Basic Vulnerability Analysis
+- Network Analysis
+- SOC Investigation
+- Threat Detection
+
+  ## Platforms
+
+- TryHackMe
+- Hack The Box
+- LetsDefend
