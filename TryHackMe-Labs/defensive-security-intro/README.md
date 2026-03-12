@@ -1,4 +1,3 @@
-# Defensive Security Intro — Writeup
 
 # Defensive Security Intro — Writeup
 
