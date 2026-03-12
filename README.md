@@ -41,9 +41,3 @@ This portfolio demonstrates practical cybersecurity skills developed through str
 - Network Analysis
 - SOC Investigation
 - Threat Detection
-
-  ## Platforms
-
-- TryHackMe
-- Hack The Box
-- LetsDefend
